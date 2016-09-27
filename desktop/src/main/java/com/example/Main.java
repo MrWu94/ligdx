@@ -11,6 +11,6 @@ import com.example.color.MyText;
 
 public class Main {
     public static void main(String... args) {
-        new LwjglApplication(new MyAction(), "Hello", 1280, 800);
+        new LwjglApplication(new MyDelta(), "Hello", 1280, 800);
     }
 }
