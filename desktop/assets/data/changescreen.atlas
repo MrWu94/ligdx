@@ -1,0 +1,19 @@
+
+changescreen.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+liushishi
+  rotate: false
+  xy: 1, 1
+  size: 184, 274
+  orig: 184, 274
+  offset: 0, 0
+  index: -1
+huge
+  rotate: false
+  xy: 187, 4
+  size: 186, 271
+  orig: 186, 271
+  offset: 0, 0
+  index: -1
